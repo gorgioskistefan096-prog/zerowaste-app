@@ -1,6 +1,6 @@
 # ZeroWaste AI
 
-Marketplace за спасување вишок храна со React/Vite, Express, MongoDB и Avalanche Fuji.
+Marketplace за спасување вишок храна со React/Vite, Express, Supabase и Avalanche Fuji.
 
 ## Локално стартување во Windows
 
